@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\31120\source\repos\求期末加权绩点\main.cpp(48,10): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  求期末加权绩点.vcxproj -> C:\Users\31120\source\repos\求期末加权绩点\x64\Debug\求期末加权绩点.exe
